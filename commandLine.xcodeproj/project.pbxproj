@@ -93,6 +93,9 @@
 		9A0C2AB91F2234A80058D83C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = MyMacMini;
 				TargetAttributes = {
