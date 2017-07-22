@@ -10,7 +10,7 @@
 #import "BNRItem.h"
 @implementation BNRItem
 -(NSString*)itemName
-{ 
+{
     return _itemName;
 }
 -(void)setItemName:(NSString *)name
