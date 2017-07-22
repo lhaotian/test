@@ -7,7 +7,7 @@
     NSString *_serialNumber;
     int _valueInDollars;
     NSDate *_dateCreated;
-    
+     
 }
 -(NSString *)itemName;
 -(void)setItemName:(NSString *)name;
