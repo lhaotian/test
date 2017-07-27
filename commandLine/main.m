@@ -7,11 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "BNRItem.h"
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-         //快点放假了开发
-        //tai5
+		BNRItem *bnr = [[BNRItem alloc]initWithItemName:@"lhaotian" serial:@"6A3H4H" dollars:29];
+		NSLog(@"%@",bnr);
         
   
     }
